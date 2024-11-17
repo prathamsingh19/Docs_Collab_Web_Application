@@ -30,8 +30,9 @@ Introducing **Docs Collab**, built with Next.js to handle the user interface, Li
 - **Tech Stack**: 
   - Next JS 
   - TypeScript
+  - Liveblocks
+  - Lexical Editor
   - Clerk Secured Authentication
-  - Getstream SDK 
   - Shadcn UI
   - Tailwind CSS
 
