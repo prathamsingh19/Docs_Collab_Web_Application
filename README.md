@@ -1,6 +1,6 @@
 # Docs Collab Web Application 📄
 
-Introducing **Docs Collab**, built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, Docs Collab is a live document sharing web application. The primary goal is to demonstrate the developer's skills in realtime enviroment that creates a lasting impact.
+Introducing **Docs Collab**, built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, Docs Collab is a live document sharing web application. The primary goal is to demonstrate the developer's skills in realtime enviroment that creates a lasting impact. **Docs Collab** is a collaborative word editor that allows multiple users to work together in real-time. It features a smooth, intuitive UI, ensuring a seamless writing experience. With strong security measures and live editing functionality, it enables efficient teamwork on documents from anywhere.
 
 ## 🚀 Features
 
