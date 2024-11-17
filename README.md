@@ -14,7 +14,7 @@ Introducing **Docs Collab**, built with Next.js to handle the user interface, Li
 - **Active Collaborators on Text Editor**: Show active collaborators with real-time presence indicators.
 - **Notifications**: Notify users of document shares, new comments, and collaborator activities.
 - **Responsive**: The application is responsive across all devices.
-- 
+
 
 
 
